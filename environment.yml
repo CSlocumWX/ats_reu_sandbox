@@ -1,0 +1,8 @@
+name: sandbox-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
